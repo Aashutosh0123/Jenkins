@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+  <classes>
+     <class name="MyTestCases.Potato"/>
+      <class name="MyTestCases.Brinjal"/>
+      <class name="MyTestCases.Carrot"/>
+      <class name="MyTestCases.Beans"/>
+      <class name="MyTestCases.Corn"/>
+      <class name="MyTestCases.Mango"/>
+      <class name="MyTestCases.Cashewsdryfruit"/>
+      <class name="MyTestCases.Nutsmixture"/>
+      <class name="MyTestCases.Bookflight"/>
+      <class name="MyTestCases.Topdeals"/>
+    
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

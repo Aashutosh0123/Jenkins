@@ -1,0 +1,13 @@
+PageObjectModel\Brinjal_page.class
+PageObjectModel\Beans_page.class
+PageObjectModel\Corn_page.class
+PageObjectModel\Mango_page.class
+PageObjectModel\Cashewsdrtfruit_page.class
+PageObjectModel\Potato_page.class
+PageObjectModel\Nutsmixture_page.class
+PageObjectModel\Topdeals_page.class
+ScreenShotsCapture\screenshot.class
+CommonUtilities\CommonUtiles.class
+PageObjectModel\Bookflight_page.class
+PageObjectModel\Carrot_page.class
+BaseTest\BaseClass.class

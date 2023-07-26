@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test name="Test(failed)">
+    <classes>
+      <class name="MyTestCases.Topdeals">
+        <methods>
+          <include name="startTest"/>
+          <include name="resultTest"/>
+          <include name="navigateSite"/>
+          <include name="Topdeals"/>
+          <include name="endReport"/>
+          <include name="initializeWebDriver"/>
+          <include name="setExtent"/>
+        </methods>
+      </class> <!-- MyTestCases.Topdeals -->
+      <class name="MyTestCases.Bookflight">
+        <methods>
+          <include name="startTest"/>
+          <include name="resultTest"/>
+          <include name="Bookflight"/>
+          <include name="navigateSite"/>
+          <include name="endReport"/>
+          <include name="initializeWebDriver"/>
+          <include name="setExtent"/>
+        </methods>
+      </class> <!-- MyTestCases.Bookflight -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
